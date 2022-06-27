@@ -9,7 +9,7 @@ Boutique is a simple but powerful persistence library, and more. With its dual-l
 Bodega is an actor-based disk cache, and what powers Boutique’s automatic offline support. If you need a way to store data or Codable structs to disk Bodega gives you the ability with a very simple API. No changes necessary to your models or your code.
 
 #### [TableFlip](https://github.com/mergesort/TableFlip)
-`UITableView` and `UITableViewCell` animations are hard — really hard. But what if they didn't have to be? Instead of calling brittle methods like `reloadRows()` or `batchUpdates()` and hoping it works, the entire API for TableFlip has one function. Call `reloadData()` like you always do to get a guaranteed `UITableView` state, then call TableFlip's `animate()` with an `Animation`, and your animatino is guaranteed to succeed.
+`UITableView` and `UITableViewCell` animations are hard — really hard. But what if they didn't have to be? Instead of calling brittle methods like `reloadRows()` or `batchUpdates()` and hoping it works, the entire API for TableFlip has one function. Call `reloadData()` like you always do to get a guaranteed `UITableView` state, then call TableFlip's `animate()` with an `Animation`, and your animation is guaranteed to succeed.
 
 #### [FeedbackEffect](https://github.com/mergesort/FeedbackEffect)
 A micro-library for playing sound effects and providing haptic feedback, bundled into one line of code. Give your users that special touch by integrating sound and feel into your apps, easier than ever.
