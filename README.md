@@ -1,5 +1,9 @@
 # I am an A+ developer. You can tell because that's what my README says and you cannot lie on the internet.
 
+The libraries and code snippets I share are a labor of love to help developers build better apps, making it easier for you to unlock your creativity, and make something amazing for yourself and your users. If you find my open source valuable I would really appreciate it if you'd consider helping [sponsor my open source work](https://github.com/sponsors/mergesort), so I can continue to work on projects like Boutique to help developers like yourself.
+
+---
+
 ### And these are some of my libraries people seem to enjoy using.
 
 #### [Boutique](https://github.com/mergesort/Boutique)
