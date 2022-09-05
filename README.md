@@ -7,10 +7,10 @@ The libraries and code snippets I share are a labor of love to help developers b
 ### And these are some of my libraries people seem to enjoy using.
 
 #### [Boutique](https://github.com/mergesort/Boutique)
-Boutique is a simple but powerful persistence library, and more. With its dual-layered memory + disk caching architecture Boutique provides a way to build apps that update in real time with full offline storage in only two lines of code using an incredibly simple API. It's truly magical, you have to see it for yourself to believe it.
+Boutique is a simple but powerful persistence library, a small set of property wrappers and types that enable building incredibly simple state-driven apps for SwiftUI, UIKit, and AppKit. With its dual-layered memory + disk caching architecture Boutique provides a way to build apps that update in real time with full offline storage in only a few lines of code using an incredibly simple API.
 
 #### [Bodega](https://github.com/mergesort/Bodega)
-Bodega is an actor-based disk cache, and what powers Boutique’s automatic offline support. If you need a way to store data or Codable structs to disk Bodega gives you the ability with a very simple API. No changes necessary to your models or your code.
+Bodega is an actor-based library that started as a simple cache based on reading and writing files to/from disk with an incredibly simple API. Bodega offers a form of infrastructure that any app's data layer can use. Whether you want to store Codable objects with ease, build caches, or interface with your API or services like CloudKit, it all works in just a few lines of code. Best of all, Bodega powers Boutique's automatic offline support. 
 
 #### [Model View Controller Store](https://github.com/mergesort/MVCS)
 A sample project demonstrating the Model View Controller Store architecture I developed, powered under the hood by [Boutique](https://github.com/mergesort/Boutique) and [Bodega](https://github.com/mergesort/Bodega). If you'd like to familiarize yourself with Model View Controller Store you can play with the sample app or you can read about the philosophy, along with a very technical walkthrough in this [post](https://build.ms/2022/06/22/model-view-controller-store/).
