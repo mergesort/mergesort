@@ -12,6 +12,9 @@ Boutique is a simple but powerful persistence library, a small set of property w
 #### [Bodega](https://github.com/mergesort/Bodega)
 Bodega is an actor-based library that started as a simple cache based on reading and writing files to/from disk with an incredibly simple API. Today Bodega offers a form of infrastructure that any app's data layer can use. Whether you want to store Codable objects with ease, build caches, or interface with your API or services like CloudKit, it all works in just a few lines of code. Best of all, Bodega powers Boutique's automatic offline support. 
 
+#### [Recap](https://github.com/mergesort/Recap)
+Recap is a library to display a What's New Screen in your app, completely powered by markdown. There are many customization options built in, you can showcase your entire app's feature history rather than just one release, and semantic versioning tools to help choose when to display your What's New Screen.
+
 #### [TableFlip](https://github.com/mergesort/TableFlip)
 `UITableView` and `UITableViewCell` animations are hard — really hard. But what if they didn't have to be? Instead of calling brittle methods like `reloadRows()` or `batchUpdates()` and hoping it works, the entire API for TableFlip has one function. Call `reloadData()` like you always do to get a guaranteed `UITableView` state, then call TableFlip's `animate()` with an `Animation`, and your animation is guaranteed to succeed.
 
