@@ -15,7 +15,7 @@ Bodega is an actor-based library that started as a simple cache based on reading
 #### [Recap](https://github.com/mergesort/Recap)
 Recap is a library to display a What's New Screen in your app, completely powered by markdown. There are many customization options built in, you can showcase your entire app's feature history rather than just one release, and semantic versioning tools to help choose when to display your What's New Screen.
 
-### [Monarch](https://github.com/mergesort/Monarch)
+#### [Monarch](https://github.com/mergesort/Monarch)
 Monarch is a minimal library that makes running migrations in your app simple, whether your app is simple or complex. It's never been easier to evolve your app over time, making any changes you need to make. Best of all, Monarch's migrations feel right at home in any Swift app, with a clean SwiftUI API.
 
 #### [TableFlip](https://github.com/mergesort/TableFlip)
