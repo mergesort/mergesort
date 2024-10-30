@@ -15,6 +15,9 @@ Bodega is an actor-based library that started as a simple cache based on reading
 #### [Recap](https://github.com/mergesort/Recap)
 Recap is a library to display a What's New Screen in your app, completely powered by markdown. There are many customization options built in, you can showcase your entire app's feature history rather than just one release, and semantic versioning tools to help choose when to display your What's New Screen.
 
+### [Monarch](https://github.com/mergesort/Monarch)
+Monarch is a minimal library that makes running migrations in your app simple, whether your app is simple or complex. It's never been easier to evolve your app over time, making any changes you need to make. Best of all, Monarch's migrations feel right at home in any Swift app, with a clean SwiftUI API.
+
 #### [TableFlip](https://github.com/mergesort/TableFlip)
 `UITableView` and `UITableViewCell` animations are hard — really hard. But what if they didn't have to be? Instead of calling brittle methods like `reloadRows()` or `batchUpdates()` and hoping it works, the entire API for TableFlip has one function. Call `reloadData()` like you always do to get a guaranteed `UITableView` state, then call TableFlip's `animate()` with an `Animation`, and your animation is guaranteed to succeed.
 
